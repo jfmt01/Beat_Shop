@@ -1,0 +1,23 @@
+form {
+    text-align: center;
+    display: block;
+    padding: 20px;
+
+}
+
+.log {
+    margin: 20px;
+    padding: 20px;
+    padding-left: 50px;
+    border-radius: 10px;
+    border-style: none;
+    font-size: 20px;
+}
+
+.button {
+    font-size: 20px;
+    margin-top: 10px;
+    background-color: rgba(255, 255, 255, 0.918);
+    color: black;
+    border-style: rgba(29, 27, 28, 0.849);
+}
